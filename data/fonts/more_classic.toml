@@ -1,0 +1,11 @@
+# Font style metadata
+name = "More classic"
+
+# Optional Google font URL
+google_fonts = "Lato:400,700|Roboto+Mono"
+
+# Font families
+heading_font = "Lato"
+body_font = "Lato"
+nav_font = "Lato"
+mono_font = "Roboto Mono"

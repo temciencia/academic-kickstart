@@ -1,13 +1,13 @@
 ---
 # Display name
-name: Dayane Machado
+name: Caio Dallaqua
 
 # Username (this should match the folder name)
 authors:
-- admin
+- caiodallaqua
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role:
